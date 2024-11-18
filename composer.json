@@ -1,0 +1,25 @@
+{
+  "name": "bakeoff/cms-connector",
+  "description": "",
+  "type": "cakephp-plugin",
+  "keywords": ["cakephp", "cms", "headless"],
+  "require": {
+    "cakephp/cakephp": ">=3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bakeoff\\CmsConnector\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Contributors",
+      "homepage": "https://github.com/mehov/cakephp-cms-connector/graphs/contributors"
+    }
+  ],
+  "homepage": "https://github.com/mehov/cakephp-cms-connector",
+  "support": {
+    "source": "https://github.com/mehov/cakephp-cms-connector",
+    "issues": "https://github.com/mehov/cakephp-cms-connector/issues"
+  }
+}
